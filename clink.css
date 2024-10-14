@@ -1,14 +1,14 @@
 #fr
 {
 	width:800px;
-	height:600px;
+	height:800px;
 	background-color: #ff5100;
 	border-style:dotted;
 	border-color:black;
 	border-width:3px;
 	border-radius:25%;
-	float:right;
-	margin-right:250px;
+	margin-left:150px;
+	float:left;
 	
 }
 .stylee
